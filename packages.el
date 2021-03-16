@@ -54,4 +54,6 @@
 (package! org-super-agenda)
 (package! treemacs-all-the-icons)
 (package! skeletor)
+(package! org-edna)
+(package! texfrag)
 ;; (package! org-gtd :recipe (:host nil :local-repo "~/Projects/Emacs/org-gtd.el"))
